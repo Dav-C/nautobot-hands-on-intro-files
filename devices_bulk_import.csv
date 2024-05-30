@@ -1,0 +1,11 @@
+name,role__name,tenant__name,manufacturer__name,device_type__model,platform__name,status__name,location__name
+smf01-edge-01,edge,Nautobot Airports,Arista,DCS-7280CR2-60,Arista EOS,Active,SMF01
+smf01-edge-02,edge,Nautobot Airports,Arista,DCS-7280CR2-60,Arista EOS,Active,SMF01
+smf01-leaf-01,leaf,Nautobot Airports,Arista,DCS-7150S-24,Arista EOS,Active,SMF01
+smf01-leaf-02,leaf,Nautobot Airports,Arista,DCS-7150S-24,Arista EOS,Active,SMF01
+smf01-leaf-03,leaf,Nautobot Airports,Arista,DCS-7150S-24,Arista EOS,Active,SMF01
+smf01-leaf-04,leaf,Nautobot Airports,Arista,DCS-7150S-24,Arista EOS,Active,SMF01
+smf01-leaf-05,leaf,Nautobot Airports,Arista,DCS-7150S-24,Arista EOS,Active,SMF01
+smf01-leaf-06,leaf,Nautobot Airports,Arista,DCS-7150S-24,Arista EOS,Active,SMF01
+smf01-leaf-07,leaf,Nautobot Airports,Arista,DCS-7150S-24,Arista EOS,Active,SMF01
+smf01-leaf-08,leaf,Nautobot Airports,Arista,DCS-7150S-24,Arista EOS,Active,SMF01
